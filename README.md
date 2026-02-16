@@ -76,11 +76,12 @@ I don't just write scripts; I architect **self-healing automation systems** that
 
 <div align="center">
 
-[![Fawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh0st-047&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Gh0st-047)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gh0st-047&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0st-047&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Gh0st-047)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0st-047&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 
 </div>
+
 
 ---
 
