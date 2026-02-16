@@ -1,4 +1,4 @@
-![Header Image](YOUR_HEADER_IMAGE_URL_HERE)
+![Header Image](./Gemini_Generated_Image_txwhb0txw.png)
 
 <div align="center">
 
