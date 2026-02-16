@@ -5,8 +5,8 @@
 # Hi, I'm Fawad. 👋
 ### AI Solutions Engineer | n8n Automation | RAG Agents
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_LINK)
-[![Fiverr](https://img.shields.io/badge/Fiverr-My%20Services-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_PROFILE_LINK)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0107104c8b4fc4b224?viewMode=1)
+[![Linkedln](https://img.shields.io/badge/Linkedln-My%20Services-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.linkedin.com/in/fawad785/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadsaeed785@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@ I bridge the gap between **heavy-code AI** (Python, TensorFlow) and **low-code s
 I don't just write scripts; I architect **self-healing automation systems** that replace manual enterprise workflows.
 
 - 🔭 **Currently working on:** A Multimodal RAG Agent for medical research (MedBox).
-- 💼 **Specialty:** Building "Agentic Workflows" that act as employees.
+- 💼 **Speciality:** Building "Agentic Workflows" that act as employees.
 - 🎓 **Education:** B.S. Computer Science (2024–2027).
 
 ---
