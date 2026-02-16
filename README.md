@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Fawad. 👋
+# Hi, I'm Fawad S. 👋
 ### AI Solutions Engineer | Computer Vision | RAG Agents
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0107104c8b4fc4b224?viewMode=1)
@@ -76,12 +76,11 @@ I don't just write scripts; I architect **self-healing automation systems** that
 
 <div align="center">
 
-[![Fawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh0st-047&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Gh0st-047)
+[![Fawad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Gh0st-047&show_icons=true&theme=radical)](https://github.com/Gh0st-047)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0st-047&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Gh0st-047)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gh0st-047&layout=compact&theme=radical)](https://github.com/Gh0st-047)
 
 </div>
-
 
 ---
 
