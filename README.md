@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Fawad S. 👋
+# Hi, I'm Fawad. 👋
 ### AI Solutions Engineer | Computer Vision | RAG Agents
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0107104c8b4fc4b224?viewMode=1)
@@ -47,20 +47,20 @@ I don't just write scripts; I architect **self-healing automation systems** that
 
 ### 🏆 **Featured Projects**
 
-#### 1. **[Seedswild: AI Plant Disease Detection (Computer Vision)]()**
+#### 1. **[Seedswild: AI Plant Disease Detection (Computer Vision)](https://github.com/Gh0st-047/Seedswild-rec-model)**
 *An industrial-grade Deep Learning model for agricultural health.*
 - **Problem:** Manual crop inspection was slow and error-prone.
 - **Solution:** Trained a **CNN (Convolutional Neural Network)** on 50,000+ images to detect leaf diseases instantly.
 - **Outcome:** Achieved **90% validation accuracy** and deployed the model for real-time inference.
 - **Tech:** Python, TensorFlow, OpenCV.
 
-#### 2. **[MedBox: AI Medical Researcher (RAG)]()**
+#### 2. **[MedBox: AI Medical Researcher (RAG)](https://github.com/Gh0st-047/AI-Health-RAG-AGENT)**
 *A "Super-Researcher" agent that indexes 1,000+ medical textbooks.*
 - **Architecture:** Built with **LangChain** and **Vector Databases** to retrieve factual medical citations.
 - **Key Feature:** Eliminates hallucinations by grounding answers in verified PDFs.
 - **Tech:** Python, OpenAI API, Pinecone.
 
-#### 3. **[Kickstarter & Social Scraper Pipeline]()**
+#### 3. **[Kickstarter & Social Scraper Pipeline](https://github.com/Gh0st-047/KickStarter-Scraper)**
 *An anti-fragile scraping engine for Lead Gen Agencies.*
 - **Solution:** Engineered a **Selenium** pipeline with residential proxies and human-mimicry logic to bypass Cloudflare.
 - **Outcome:** Extracts 8,000+ leads daily with 99% success rate.
